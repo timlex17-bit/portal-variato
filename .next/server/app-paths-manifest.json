@@ -1,0 +1,10 @@
+{
+  "/portal/dashboard/page": "app/portal/dashboard/page.js",
+  "/portal/kazu/page": "app/portal/kazu/page.js",
+  "/portal/admin/page": "app/portal/admin/page.js",
+  "/portal/chat/page": "app/portal/chat/page.js",
+  "/portal/assinatura/page": "app/portal/assinatura/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/portal/perfil/page": "app/portal/perfil/page.js",
+  "/portal/video-call/page": "app/portal/video-call/page.js"
+}
